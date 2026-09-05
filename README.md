@@ -13,7 +13,6 @@ I'm currently learning web development and building my skills through online cou
 - Bootstrap
 - Vue.js
 - Photoshop
-- Git & GitHub
 
 ### 📚 Currently Learning
 
